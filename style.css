@@ -1,0 +1,19 @@
+.color-special{
+    background-color: #e6ccff;
+}
+.navbar-purple-dark {
+  background-color: #5a189a;
+}
+
+.navbar-purple-dark .navbar-brand,
+.navbar-purple-dark .nav-link {
+  color: white; 
+}
+
+.navbar-purple-dark .nav-link.active,
+.navbar-purple-dark .nav-link:hover {
+  color: #e8a8ff; 
+  font-weight: bold;
+}
+
+
